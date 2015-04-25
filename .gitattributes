@@ -1,0 +1,3 @@
+*.bat eol=crlf
+*.dsw eol=crlf
+*.dsp eol=crlf
